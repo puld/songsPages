@@ -1,6 +1,6 @@
 /*!
-  * vue-router v3.4.9
-  * (c) 2020 Evan You
+  * vue-router v3.5.1
+  * (c) 2021 Evan You
   * @license MIT
   */
 
@@ -23,8 +23,8 @@
  */
 
 /*!
- * vuex v3.6.0
- * (c) 2020 Evan You
+ * vuex v3.6.2
+ * (c) 2021 Evan You
  * @license MIT
  */
 
@@ -942,6 +942,8 @@
 
 /*! ./ru */
 
+/*! ./sanitizeDateString */
+
 /*! ./scroll */
 
 /*! ./services */
@@ -1212,7 +1214,7 @@
 
 /*! exports provided: convertToComponentDeclarations, default */
 
-/*! exports provided: createItemTypeListeners, createItemTypeNativeListeners, createNativeLocaleFormatter, monthChange, pad */
+/*! exports provided: createItemTypeListeners, createItemTypeNativeListeners, createNativeLocaleFormatter, monthChange, sanitizeDateString, pad */
 
 /*! exports provided: createItemTypeNativeListeners, createItemTypeListeners */
 
@@ -3086,6 +3088,10 @@
 
 /*!***************************************************************!*\
   !*** ./src/components/VColorPicker/VColorPickerSwatches.sass ***!
+  \***************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./src/components/VDatePicker/util/sanitizeDateString.ts ***!
   \***************************************************************/
 
 /*!***************************************************************!*\
