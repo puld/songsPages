@@ -1,6 +1,6 @@
 {
   "name": "Songs",
-  "short_name": "test.pwa",
+  "short_name": "Songs",
   "icons": [
     {
       "src": "/songsPages/_nuxt/icons/icon_64x64.6009f3.png",
